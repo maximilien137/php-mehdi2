@@ -12,7 +12,7 @@ par 2 est 0)
 * xx : pair 
 * yy : impair
 ...
-
+maximilien
 */
 
 <?php 
